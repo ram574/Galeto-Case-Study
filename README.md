@@ -1,6 +1,6 @@
 # Welcome !
 
-## This repo made for the case study of Galeto Company which is in Sweden !
+## This repo is a case study given by Galeto Company which is in Sweden !
 
 ### Hi there, I'm ram - Data Scientist [codeLOVEr] 
 
