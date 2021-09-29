@@ -58,11 +58,14 @@ Training set with 80% of instances and test test with 20% of instances
 
 ## Evaluate and Validation
 
-Model validated based on the test scores and mean square error
+## Test Set Accuracy and mean square error
 
 <img width="879" alt="Screen Shot 2021-09-29 at 01 49 26" src="https://user-images.githubusercontent.com/38869311/135182542-97a11326-cb54-4b74-a537-cf947ca31fc6.png">
 
-     
+## Mean Square Error
+
+<img width="380" alt="Screen Shot 2021-09-29 at 01 58 53" src="https://user-images.githubusercontent.com/38869311/135182959-c4df00de-b4e6-4df4-9299-718eccc5d499.png">
+
 ## Conclusion
 
 From the above comparision of all algorithms with thier acccuracy and mean_absolute_error
