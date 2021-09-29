@@ -69,6 +69,8 @@ From the above comparision of all algorithms with thier acccuracy and mean_absol
 
 LightGBM boosting model performs well with accuracy of 95.04 and mae of 2.48
 
+<img width="380" alt="Screen Shot 2021-09-29 at 01 58 53" src="https://user-images.githubusercontent.com/38869311/135182959-c4df00de-b4e6-4df4-9299-718eccc5d499.png">
+
 
 
 
