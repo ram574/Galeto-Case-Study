@@ -58,9 +58,17 @@ Training set with 80% of instances and test test with 20% of instances
 
 ## Evaluate and Validation
 
-Model validated based on the test scores and mean square erroe
+Model validated based on the test scores and mean square error
 
+<img width="879" alt="Screen Shot 2021-09-29 at 01 49 26" src="https://user-images.githubusercontent.com/38869311/135181145-e3055445-35f8-4c9c-b009-744f43074a51.png"
+     
+<img width="380" alt="Screen Shot 2021-09-29 at 01 58 53" src="https://user-images.githubusercontent.com/38869311/135181217-926fee77-4494-4989-8ad6-5f4e25d234b7.png">
 
+## Conclusion
+
+From the above comparision of all algorithms with thier acccuracy and mean_absolute_error
+
+LightGBM boosting model performs well with accuracy of 95.04 and mae of 2.48
 
 
 
