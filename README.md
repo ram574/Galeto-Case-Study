@@ -70,7 +70,6 @@ From the above comparision of all algorithms with thier acccuracy and mean_absol
 LightGBM boosting model performs well with accuracy of 95.04 and mae of 2.48
 
 
-![MSE](https://github.com/ram574/Gelato-Case-Study/issues/1#issuecomment-929720742)
 
 
 
