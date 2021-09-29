@@ -62,15 +62,15 @@ Model validated based on the test scores and mean square error
 
 <img width="879" alt="Screen Shot 2021-09-29 at 01 49 26" src="https://user-images.githubusercontent.com/38869311/135182542-97a11326-cb54-4b74-a537-cf947ca31fc6.png">
 
-
-![MSE](https://github.com/ram574/Gelato-Case-Study/issues/1#issuecomment-929720742)
-
      
 ## Conclusion
 
 From the above comparision of all algorithms with thier acccuracy and mean_absolute_error
 
 LightGBM boosting model performs well with accuracy of 95.04 and mae of 2.48
+
+
+![MSE](https://github.com/ram574/Gelato-Case-Study/issues/1#issuecomment-929720742)
 
 
 
