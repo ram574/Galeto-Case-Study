@@ -60,9 +60,9 @@ Training set with 80% of instances and test test with 20% of instances
 
 Model validated based on the test scores and mean square error
 
-<img width="879" alt="Screen Shot 2021-09-29 at 01 49 26" src="https://user-images.githubusercontent.com/38869311/135181145-e3055445-35f8-4c9c-b009-744f43074a51.png"
+! [Accuracy!][<img width="879" alt="Screen Shot 2021-09-29 at 01 49 26" src="https://user-images.githubusercontent.com/38869311/135181145-e3055445-35f8-4c9c-b009-744f43074a51.png"]
      
-<img width="879" alt="Screen Shot 2021-09-29 at 01 49 26" src="https://user-images.githubusercontent.com/38869311/135181382-bcc63c16-05ee-47af-8c7c-4d618eb6f51a.png">
+! [MSE!][<img width="879" alt="Screen Shot 2021-09-29 at 01 49 26" src="https://user-images.githubusercontent.com/38869311/135181382-bcc63c16-05ee-47af-8c7c-4d618eb6f51a.png">]
 
 
 ## Conclusion
